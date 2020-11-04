@@ -28,8 +28,6 @@ def main():
 
 def restart():
     start = input("Would you like to do another calculation? ")
-
-
     
 if (__name__=="__main__"):
     main()
